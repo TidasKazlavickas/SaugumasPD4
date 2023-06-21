@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "jGIwg/Vy+SBqZO+1YqxcmK/13c7Yo5eE6vNAj8nv4zYmuMIIcw4XTGRB1YgNCiezSOHk1GxcOfzNwlm0WUTuyA==",
+  "success": true,
+  "projectFilePath": "C:\\Kolegija\\4 semestras\\Informacijos Saugumas\\RSA_Parasas-main\\RSA Sign App\\Rsa_Parasas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tidas\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\tidas\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\tidas\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
